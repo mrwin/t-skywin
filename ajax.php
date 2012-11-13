@@ -6,5 +6,5 @@ if ($_POST['id']) {
     echo $page;
 }
 else
-    exit;
+    die("Error!");
 ?>
