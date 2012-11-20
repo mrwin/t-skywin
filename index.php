@@ -23,7 +23,7 @@
             <div id="content">
             </div>
             <footer>
-                © <a href="#"><div class="copyright"></div></a>,   2012
+                © <a href="#"><div class="copyright"></div></a>   2012
             </footer>
         </div>
     </body>
